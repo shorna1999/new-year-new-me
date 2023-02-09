@@ -4,8 +4,9 @@
 header{ 
     height: 600px;
     background-image: url(../images/banner/banner3.png);
+    background-color: #0F72B3;
     background-size: cover;
-    background-color: aqua;
+    
     
 }
 .header-h1{
