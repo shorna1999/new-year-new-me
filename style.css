@@ -1,0 +1,119 @@
+
+                 /***********header section************/
+
+header{ 
+    height: 600px;
+    background-image: url(../images/banner/banner3.png);
+    background-size: cover;
+    background-color: aqua;
+    
+}
+.header-h1{
+    color: white;
+    margin-left: 690px;
+    padding-top: 150px;
+    font-size: 50px;
+    
+}
+.header-p{
+    color: white;
+    margin-left: 690px;
+    padding-top: 5px;
+
+}
+.header-btn{
+    margin-left: 810px;
+    padding: 10px;
+    font-size: 16px;
+    color: #0081CE;
+    border-radius: 5px;
+    border: 1px solid white;
+}
+
+
+                   /******************main section********************/
+
+.main-section-1{
+    display: flex;
+    margin-top: 50px;
+}
+.section-1-div-2{
+    margin-top: 160px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.main-section-2{
+    display: flex;
+    margin-top: 50px;margin-left: 20px;
+} 
+.section-2-div-2{
+    margin-left: 80px;
+    margin-right: 150px;
+}
+.section-3-h1{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.section-3-div-1{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.main-section-4{
+    margin-top: 50px;
+    border-radius: 10px;
+    height: 250px;
+    width: 900px;
+    margin-left: 75px;
+    background-image:linear-gradient(to left,rgba(180,146,146),cornflowerblue);
+    background-size: cover;
+}
+.section-4-h1{
+    color: white;
+    font-size: 30px;
+    padding-top: 50px;
+    margin-left: 50px;
+}
+.section-4-btn{
+    margin-top: 30px;
+    margin-left: 50px;
+    font-size: 17px;
+    color: #0081CE;
+    padding: 15px;
+    border-radius:10px;
+}
+
+
+                    /*****************footer section****************/
+
+
+.footer-section-5{
+    height: 400px;
+    width: 100%;
+    color: white;
+    background-color: black;
+    margin-top: 100px;
+    display: flex;
+}  
+.section-5-div-1{
+    margin-left: 110px;
+    margin-top: 50px;
+}
+.section-5-div-2{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.email{
+        border: 1px solid white;
+        padding: 10px;
+}  
+#section-5-btn{
+    margin-top: 40px;
+    padding: 17px;
+    background-color: #0081CE;
+    color: white;
+    border-radius: 5px;
+}             
